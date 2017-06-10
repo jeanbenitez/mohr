@@ -17,6 +17,20 @@ Setup
 ```
 npm install
 ```
+
+
+
+Component
+---
+
+´´´
+- Header
+- Description
+- AltText
+- App
+- Table
+- Slider
+´´´
  
  
  
